@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C1BC504A-F75B-4113-A47F-D7DD9E560356}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormsExample.Xaml/FormsExample.Xaml/ContentPageExample.xaml.cs">
+    <Files>
+      <File FileName="FormsExample.Xaml/FormsExample.Xaml/ContentPageExample.xaml" Line="27" Column="39" />
+      <File FileName="FormsExample.Xaml/FormsExample.Xaml/ContentPageExample.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FormsExample.Xaml" expanded="True">
+            <Node name="FormsExample.Xaml" expanded="True">
+              <Node name="ContentPageExample.xaml" expanded="True">
+                <Node name="ContentPageExample.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FormsExample.Xaml.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.46EF8C3D-5BAF-447F-B1A2-02A60FF26E9F" />
+  <MonoDevelop.Ide.ItemProperties.FormsExample.Xaml.Droid PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

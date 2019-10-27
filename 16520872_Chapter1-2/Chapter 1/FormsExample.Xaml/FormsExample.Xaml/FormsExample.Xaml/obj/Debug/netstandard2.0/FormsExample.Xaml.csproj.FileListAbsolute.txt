@@ -1,0 +1,8 @@
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml/bin/Debug/netstandard2.0/FormsExample.Xaml.deps.json
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml/bin/Debug/netstandard2.0/FormsExample.Xaml.dll
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml/bin/Debug/netstandard2.0/FormsExample.Xaml.pdb
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml/obj/Debug/netstandard2.0/FormsExample.Xaml.csprojAssemblyReference.cache
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml/obj/Debug/netstandard2.0/FormsExample.Xaml.AssemblyInfoInputs.cache
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml/obj/Debug/netstandard2.0/FormsExample.Xaml.AssemblyInfo.cs
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml/obj/Debug/netstandard2.0/FormsExample.Xaml.dll
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml/obj/Debug/netstandard2.0/FormsExample.Xaml.pdb

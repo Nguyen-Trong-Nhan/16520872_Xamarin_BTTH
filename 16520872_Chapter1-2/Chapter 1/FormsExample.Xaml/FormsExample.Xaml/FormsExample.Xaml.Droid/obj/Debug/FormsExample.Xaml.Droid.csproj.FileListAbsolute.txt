@@ -1,0 +1,7 @@
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml.Droid/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml.Droid/obj/Debug/build.props
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml.Droid/obj/Debug/adb.props
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml.Droid/obj/Debug/FormsExample.Xaml.Droid.csprojAssemblyReference.cache
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml.Droid/obj/Debug/stamp/_BuildLibraryImportsCache.stamp
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml.Droid/obj/Debug/resourcepaths.cache
+/Users/nalh/Desktop/Xamarin/16520872_Xamarin_BTTH/16520872_Chapter1-2/Chapter 1/FormsExample.Xaml/FormsExample.Xaml/FormsExample.Xaml.Droid/obj/Debug/res.flag
